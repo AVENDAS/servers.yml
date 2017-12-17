@@ -1,3 +1,3 @@
-Register by AVENDA Plugins
+Registered by AVENDA Plugins
 
 Korean Servers.yml
